@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ブルーアンバー (Preview)",
+  "base_artist": "back number",
+  "createdAt": "2026-03-18T05:47:32.138369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーアンバー",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_ブルーアンバー_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブルーアンバー - Blue Amber",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_ブルーアンバー_-_Blue_Amber_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーアンバー",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーアンバー_back_number.txt"
+    }
+  ]
+}
